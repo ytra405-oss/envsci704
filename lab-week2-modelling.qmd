@@ -146,7 +146,7 @@ The main issues I had were setting up the files, understanding virtual environme
 
 ## Checklist before you push
 
-- [ ] Every task has a code cell **and** a short prose answer
+- [] Every task has a code cell **and** a short prose answer
 - [ ] Every figure has axis labels and a title
 - [ ] Your name and student ID are in the YAML header
 - [ ] The file renders cleanly (no red error boxes in the HTML output)
