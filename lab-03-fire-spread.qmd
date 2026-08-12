@@ -118,7 +118,7 @@ If you plot your results in Python, use a code cell:
 import matplotlib.pyplot as plt
 
 density = [40, 50, 55, 58, 59, 60, 62, 65, 70, 80]
-mean_burned = [15.8, 35.9, 64.9, 80.2, 89.5, 83.1, 96.1, 98.6, 99.5, 98.6]
+mean_burned = [15.8, 35.9, 64.9, 80.2, 89.5, 83.05, 96.1, 98.6, 98.6, 99.5]
 
 fig, ax = plt.subplots(figsize=(6, 4))
 
